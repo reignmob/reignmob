@@ -47,7 +47,8 @@ body {
 #vimeo-display {
 
 
-	display: block;
+	display: flex;
+	flex-direction: row;
 	margin-top: 185px;
 	margin-left: 450px;
 	z-index: 50;
